@@ -10,8 +10,7 @@ and after discovering Yann Seznek's recent awesome [granular exploration system]
 Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandthebillionaire/tikatmos), manipulate a number of parameters of an audio file to be able to hear it properly.
 
 <img src="Media/iteration_0.1.png" width="450px">
-[https://user-images.githubusercontent.com/8988958/201481491-6cdde665-fc56-49e8-a525-ab87610d4fe4.mov](https://user-images.githubusercontent.com/8988958/204880088-65176b04-083e-4871-832f-c0f9a7d6a45e.mov)
-
+<video src="https://user-images.githubusercontent.com/8988958/204880088-65176b04-083e-4871-832f-c0f9a7d6a45e.mov" controls="controls"></video>
 
 
 
