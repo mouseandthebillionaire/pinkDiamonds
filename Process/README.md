@@ -5,14 +5,14 @@
 
 ###  A Continuation of Sorts
 
-One main goal of this project is to explore using Niall Moody's [LibPDIntegration]("https://github.com/LibPdIntegration/LibPdIntegration"), 
-and after discovering Yann Seznek's recent awesome [granular exploration system]("https://github.com/yannseznec/ys.granular") an idea presents itself:
-Building on the voice-tuning minigame in [TIKATMOS]("https://github.com/mouseandthebillionaire/tikatmos"), manipulate a number of parameters of an audio file to be able to hear it properly.
+One main goal of this project is to explore using Niall Moody's [LibPDIntegration](https://github.com/LibPdIntegration/LibPdIntegration), 
+and after discovering Yann Seznek's recent awesome [granular exploration system](https://github.com/yannseznec/ys.granular) an idea presents itself:
+Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandthebillionaire/tikatmos), manipulate a number of parameters of an audio file to be able to hear it properly.
 
 <img src="Media/iteration_0.1.png" width="500px">
 
 ### Concepts
-* This version has the 4 diamonds<sup>[1](#####3)</sup> that each control one parameter on their x and y axis
+* This version has the 4 diamonds<sup>[1](https://github.com/mouseandthebillionaire/pinkDiamonds/tree/main/Process#1-which-yeah-arent-pink-like-theyre-supposed-to-be-currently-but-who-was-time-to-create-pink-textures-for-3d-objects-just-to-be-cute)</sup> that each control one parameter on their x and y axis
 * These parameters are mapped from 0-1 in Pd, so it makes it really easy to convert the square space of -5 to 5
 * The parameters used are grain pitch, random offset, random pitch, grain density, grain size, and autoplay speed.
 * Two of the diamonds have the same parameter for their x and y axis, meaning that the ideal state is either lower left or upper right 
@@ -35,7 +35,7 @@ Building on the voice-tuning minigame in [TIKATMOS]("https://github.com/mouseand
 
 ##### 1 Which, yeah, aren't pink like they're supposed to be currently, but who was time to create pink textures for 3D objects just to be cute?
 ##### 2 Easter Egg: if you end up bumping one diamond into another they'll start spinning and moving around the space because the physics system is still on, and it's pretty funny. Probably room here for more exploration into this idea. Like if the controls actually looked like knobs and dials and stuff but then just went flying around in the space as you were trying to tweak their settings? Haha. Definitely.
-##### 3 Almost like an audio version of Nicole He's [enhance.computer]("https://www.enhance.computer/")
-##### 4 Though this would be highly similar to Samantha Kalman's [Echoic Memory]("https://play.date/games/echoic-memory/") for the Playdate
+##### 3 Almost like an audio version of Nicole He's [enhance.computer](https://www.enhance.computer/)
+##### 4 Though this would be highly similar to Samantha Kalman's [Echoic Memory](https://play.date/games/echoic-memory/) for the Playdate
 
 </sub>
