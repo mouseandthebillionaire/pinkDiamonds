@@ -11,6 +11,9 @@ Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandt
 
 <img src="Media/iteration_0.1.png" width="450px">
 <video src="https://user-images.githubusercontent.com/8988958/204880088-65176b04-083e-4871-832f-c0f9a7d6a45e.mov" controls="controls" width="300px"></video>
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/8988958/204880088-65176b04-083e-4871-832f-c0f9a7d6a45e.mov" type="video/mp4">
+</video>
 
 
 
