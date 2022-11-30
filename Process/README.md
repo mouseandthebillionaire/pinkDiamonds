@@ -1,7 +1,7 @@
 # Pink Diamonds! | Documentation!
 ***Shine bright like a diamond. Shine on you crazy diamond, etc etc***
 
-## It Begins Anew | 30.11.22
+## It Begins Anew | 23.11.22
 
 ###  A Continuation of Sorts
 
