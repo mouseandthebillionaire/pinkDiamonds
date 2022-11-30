@@ -10,6 +10,9 @@ and after discovering Yann Seznek's recent awesome [granular exploration system]
 Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandthebillionaire/tikatmos), manipulate a number of parameters of an audio file to be able to hear it properly.
 
 <img src="Media/iteration_0.1.png" width="500px">
+https://user-images.githubusercontent.com/8988958/204880088-65176b04-083e-4871-832f-c0f9a7d6a45e.mov
+
+
 
 ### Concepts
 * This version has the 4 diamonds<sup>[1](https://github.com/mouseandthebillionaire/pinkDiamonds/tree/main/Process#1-which-yeah-arent-pink-like-theyre-supposed-to-be-currently-but-who-was-time-to-create-pink-textures-for-3d-objects-just-to-be-cute)</sup> that each control one parameter on their x and y axis
