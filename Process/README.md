@@ -37,7 +37,7 @@ Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandt
 <sub>
 
 ##### 1 Which, yeah, aren't pink like they're supposed to be currently, but who was time to create pink textures for 3D objects just to be cute?
-#####2 Easter Egg: if you end up bumping one diamond into another they'll start spinning and moving around the space because the physics system is still on, and it's pretty funny. Probably room here for more exploration into this idea. Like if the controls actually looked like knobs and dials and stuff but then just went flying around in the space as you were trying to tweak their settings? Haha. Definitely.
+##### 2 Easter Egg: if you end up bumping one diamond into another they'll start spinning and moving around the space because the physics system is still on, and it's pretty funny. Probably room here for more exploration into this idea. Like if the controls actually looked like knobs and dials and stuff but then just went flying around in the space as you were trying to tweak their settings? Haha. Definitely.
 ##### 3 Almost like an audio version of Nicole He's [enhance.computer](https://www.enhance.computer/)
 ##### 4 Though this would be highly similar to Samantha Kalman's [Echoic Memory](https://play.date/games/echoic-memory/) for the Playdate
 
