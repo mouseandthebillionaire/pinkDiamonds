@@ -1156,6 +1156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: grainCube
       objectReference: {fileID: 0}
+    - target: {fileID: 7198680968955613531, guid: 481a67b98a54b49fb84b4e9c998d8bd1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 481a67b98a54b49fb84b4e9c998d8bd1, type: 3}
 --- !u!1001 &7198680967487910420
