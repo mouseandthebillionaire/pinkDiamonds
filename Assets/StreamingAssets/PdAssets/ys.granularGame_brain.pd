@@ -1,4 +1,4 @@
-#N canvas 871 206 1223 761 10;
+#N canvas 928 415 1223 761 10;
 #N canvas 33 69 1369 803 autoplay 0;
 #X floatatom 279 367 5 0 0 0 - - - 0;
 #X obj 300 442 phasor~ 0.1;
@@ -566,7 +566,7 @@
 #X obj 527 562 throw~ recordingL;
 #X obj 556 607 throw~ recordingR;
 #X obj 189 320 receive newFile;
-#X msg 188 416 ../../Audio/dialogue.wav;
+#X msg 188 416 ../../Audio/71839.wav;
 #X connect 1 0 5 0;
 #X connect 3 0 54 0;
 #X connect 4 0 1 0;

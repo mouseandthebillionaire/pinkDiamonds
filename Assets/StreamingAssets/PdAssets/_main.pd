@@ -1,6 +1,6 @@
-#N struct 1331-scope float x float y float x1 float y1 float c1 float c2 float c3 float c4 array vector-min 1331-scope-element array vector-max 1331-scope-element float curx;
-#N struct 1331-scope-element float y;
-#N canvas 1410 271 830 599 12;
+#N struct 1045-scope float x float y float x1 float y1 float c1 float c2 float c3 float c4 array vector-min 1045-scope-element array vector-max 1045-scope-element float curx;
+#N struct 1045-scope-element float y;
+#N canvas 1259 242 830 599 12;
 #X text 38 546 yann seznec // 2022 // yannseznec.com;
 #X obj 447 60 loadbang;
 #X obj 533 66 bang;
