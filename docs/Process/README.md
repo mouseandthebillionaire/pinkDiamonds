@@ -42,3 +42,17 @@ Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandt
 ##### 4 Though this would be highly similar to Samantha Kalman's [Echoic Memory](https://play.date/games/echoic-memory/) for the Playdate
 
 </sub>
+
+## Interaction Ideas ##
+"Let's not make this too gamelike, it's meant to be experimental. Nope, not a puzzle either. Just explore sound and object positioning and... you know... like... moving diamonds around... and..."
+
+### GAME Ideas!
+<img src="/Media/interactionIdeas.jpg" alt="Interaction Ideas" width="500px">
+
+All of these ideas seem immediately A+, but the spinning combination lock may be the most promising?
+Additionally, the possibility for puzzly gamey things is strong here. So, to implement:
+* 6 pinning concentric circles attached to the 6 paramters implemented in the first prototype
+* A voice that is reading a code? And the user can enter the code (i.e the audio version of Nicole He's [enhance.computer](https://www.enhance.computer/) mentioned above)
+* Might be good to eventually add other effects that obfuscate the voice (distortion, filters) but for now focusing on the granular synthesis alone is fine
+
+Onward!
