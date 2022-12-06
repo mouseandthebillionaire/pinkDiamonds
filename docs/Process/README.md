@@ -47,7 +47,7 @@ Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandt
 "Let's not make this too gamelike, it's meant to be experimental. Nope, not a puzzle either. Just explore sound and object positioning and... you know... like... moving diamonds around... and..."
 
 ### GAME Ideas!
-<img src="/Media/interactionIdeas.jpg" alt="Interaction Ideas" width="500px">
+<img src="/Media/interactionSketches.jpg" alt="Interaction Ideas" width="500px">
 
 All of these ideas seem immediately A+, but the spinning combination lock may be the most promising?
 Additionally, the possibility for puzzly gamey things is strong here. So, to implement:
