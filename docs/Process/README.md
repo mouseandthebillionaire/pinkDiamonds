@@ -43,7 +43,7 @@ Building on the voice-tuning minigame in [TIKATMOS](https://github.com/mouseandt
 
 </sub>
 
-## Interaction Ideas ##
+## Interaction Ideas 30.11.22 ##
 "Let's not make this too gamelike, it's meant to be experimental. Nope, not a puzzle either. Just explore sound and object positioning and... you know... like... moving diamonds around... and..."
 
 ### GAME Ideas!
@@ -56,3 +56,24 @@ Additionally, the possibility for puzzly gamey things is strong here. So, to imp
 * Might be good to eventually add other effects that obfuscate the voice (distortion, filters) but for now focusing on the granular synthesis alone is fine
 
 Onward!
+
+## Combination-Lock Style Interface ##
+This version trades the four white diamonds in for concentric circles.<sup>[5](#####5)</sup>
+
+<img src="Media/iteration_0.2.png" alt="Circular interation iteration" width="500px" />
+
+This seems _fine_ but the way that the granular synthesizer is being implemented is far from ideal. Some tweaking needs to happen to the underlying Pd patch to make the extremes of each effect feel better. 
+Right now the distances between total chaos and being overly sparse for some of the effects is far too large.
+Also maybe increasing the number of obvious inputs (even though they actually remain the same number of parameters) is too complicated?
+
+Unfortunately, something is terribly wrong here and the Pd audio doesn't run in the desktop build of this, only in the Unity editor, which is just _infuriating_. Additionally, it is beginning to feel that perhaps the granular synthesizer is not the solution here? This could probably be faked (adding distortion and/or sound-designy flourishes) to greater effect in a puzzly situation like this. Or maybe not! Don't give up heart! There's still space to explore these implementations!
+
+But for now at least, for this final stage, let's take step back and make something more _sonically_ interesting. 
+The circles will remain, but will be instead be a series of multiple (3?) concentric circles of different colors that each control the granular synthesis applied to different instruments. It's an experiment!
+
+### Notes
+<sub>
+
+##### 5 With PINK diamonds. So there's that!
+
+</sub>
