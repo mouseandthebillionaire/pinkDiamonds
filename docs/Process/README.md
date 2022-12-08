@@ -77,3 +77,19 @@ The circles will remain, but will be instead be a series of multiple (3?) concen
 ##### 5 With PINK diamonds. So there's that!
 
 </sub>
+
+## Musical Manipulation ##
+Okay, so here's the final (for now) exploration in this saga. 
+Two different sounds are loaded in and attached to the different color dial groups (ann ambient arppegiated pad, and a lead synth doing a simple descending line)
+Each dial group is then effecting (from the outside-in)
+* Width of possible random offset locations
+* Direct control of the sample offset location
+* Percent chance that a grain will play at any given moment
+* Density of grains
+* Size of grains
+* Speed of the autoplay
+
+
+It's not terrible, but it's also not good? But with some tweaking of the parameters, it would probably be fun.
+It also seems that it could definitely benefit from a second set of sounds that is more obvious (i.e frequency shifting tone to or reduction in distortion)
+that would help the player situate themselves a bit better. But the point of this is exploration, so... exploration achieved! Things learned!
