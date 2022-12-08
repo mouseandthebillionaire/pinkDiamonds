@@ -81,3 +81,23 @@ The circles will remain, but will be instead be a series of multiple (3?) concen
 ##### 5 With PINK diamonds. So there's that!
 
 </sub>
+ 
+## Music Manipulation ##
+
+Okay. So here is the final (for now) iteration of this exploration.
+In this version two sounds are loaded (and arpegiated pad and a lead playing a simple descending melody)
+The two dial groups are then each assigned a sound to manipulate granularly. The effect manipulations are as follows (from the outside-in)
+
+* Width of random offset locations
+* Direct control of center of random offset
+* 100% chance that a grain will be played
+* Density of grains
+* Size of grains
+* Speed of autoplay
+
+It's not terrible! But it's not great. Some things that would probably help (or at least not hurt)
+* Tweaking the variables so they produce for obvious changes. There's a lot of nuance here, and that makes it pretty hard to read
+* Adding other sonic manipulation _in addition_ to what's here. So you tweak the know for grain size, and that changes but you also hear reduced distortion of a continuous tone
+* In a true UX-guided world it would obviously make sense to add labels, instructions, etc, but that defeats the purpose, so...
+
+And that's it for now! There's definitely something here, and it's far from perfect, but exploration achieved! Things were learned!
