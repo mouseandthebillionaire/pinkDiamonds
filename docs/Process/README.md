@@ -95,6 +95,8 @@ The two dial groups are then each assigned a sound to manipulate granularly. The
 * Size of grains
 * Speed of autoplay
 
+<video src="https://user-images.githubusercontent.com/8988958/206341218-08fa789b-e243-4e93-b7e1-5546f042022c.mov" controls="controls"></video>
+
 It's not terrible! But it's not great. Some things that would probably help (or at least not hurt)
 * Tweaking the variables so they produce for obvious changes. There's a lot of nuance here, and that makes it pretty hard to read
 * Adding other sonic manipulation _in addition_ to what's here. So you tweak the know for grain size, and that changes but you also hear reduced distortion of a continuous tone
