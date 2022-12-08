@@ -66,6 +66,10 @@ This seems _fine_ but the way that the granular synthesizer is being implemented
 Right now the distances between total chaos and being overly sparse for some of the effects is far too large.
 Also maybe increasing the number of obvious inputs (even though they actually remain the same number of parameters) is too complicated?
 
+
+<video src="https://user-images.githubusercontent.com/8988958/206069982-b2ae172a-072d-4a11-9e93-be984b876b50.mov" controls="controls"></video>
+
+
 Unfortunately, something is terribly wrong here and the Pd audio doesn't run in the desktop build of this, only in the Unity editor, which is just _infuriating_. Additionally, it is beginning to feel that perhaps the granular synthesizer is not the solution here? This could probably be faked (adding distortion and/or sound-designy flourishes) to greater effect in a puzzly situation like this. Or maybe not! Don't give up heart! There's still space to explore these implementations!
 
 But for now at least, for this final stage, let's take step back and make something more _sonically_ interesting. 
@@ -77,19 +81,3 @@ The circles will remain, but will be instead be a series of multiple (3?) concen
 ##### 5 With PINK diamonds. So there's that!
 
 </sub>
-
-## Musical Manipulation ##
-Okay, so here's the final (for now) exploration in this saga. 
-Two different sounds are loaded in and attached to the different color dial groups (ann ambient arppegiated pad, and a lead synth doing a simple descending line)
-Each dial group is then effecting (from the outside-in)
-* Width of possible random offset locations
-* Direct control of the sample offset location
-* Percent chance that a grain will play at any given moment
-* Density of grains
-* Size of grains
-* Speed of the autoplay
-
-
-It's not terrible, but it's also not good? But with some tweaking of the parameters, it would probably be fun.
-It also seems that it could definitely benefit from a second set of sounds that is more obvious (i.e frequency shifting tone to or reduction in distortion)
-that would help the player situate themselves a bit better. But the point of this is exploration, so... exploration achieved! Things learned!
